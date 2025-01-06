@@ -27,17 +27,19 @@ function handleClick() {                   // i use hanlde for for three buttons
 
 // Q5) If and Else Conditions for Cradle Conditions of a baby
 
+// Q5) If and Else Conditions for Cradle Conditions of a baby
+
 // function cradleCondition(age) {
 //     if (age < 1) {
-//       console.log("Ye shakhs ek doodh peeta bacha hai");
+//       console.log("Ye larka new born baby hay");
 //     } else if (age >= 1 && age <= 2) {
-//       console.log("Ye shakhs ek chhota bacha hai jo chalna seekh raha hai.");
+//       console.log("Ye larka ek chhota bacha hai jo chalna seekh raha hai.");
 //     } else if (age > 2 && age <= 5) {
-//       console.log("Ye shakhs ek preschool ka talib-e-ilm hai.");
+//       console.log("Ye larka ek preschool ka student hay.");
 //     } else if (age > 5 && age <= 7){
-//       console.log("Ye shakhs ab kindergarten mein hai.");
+//       console.log("Ye larka ab 3 stander may hay.");
 //     } else {
-//       console.log("Ya Shaks ab baraha larka hay .");
+//       console.log("Ya larka ab baraha larka hay .");
 //     }
 //   }
 
